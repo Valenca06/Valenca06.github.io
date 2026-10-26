@@ -1,0 +1,14 @@
+baseURL = 'https://Valenca06.github.io/'
+languageCode = 'pt-br'
+title = 'Meu Blog Pro'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = "Bem-vindo ao meu blog"
+  Content = "Compartilhando ideias, códigos e projetos."
